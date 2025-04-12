@@ -24,8 +24,11 @@ In app.py:
 o	Average cost
 o	Table booking (Yes/No)
 o	Online delivery (Yes/No)
+
 o	Price range (1 to 4)
 •	Backend transforms inputs, scales them, and passes to model
 •	App returns a rating category like:
 o	Poor, Average, Good, Very Good, or Excellent
 
+Output:
+![Output](https://github.com/user-attachments/assets/b8ab8943-688d-4bf2-8c92-ce71ffd4530a)
